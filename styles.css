@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.imageContainer{
+	width:1100px;
+	border:2px solid black;
+}
+.img1{
+	width:200px	
+}
+.col2{
+	width:600px;
+	text-align:center;
+}
+.img{
+	width:600px;
+}
